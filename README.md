@@ -26,6 +26,3 @@ Since all game progress is stored locally on your mobile device, uninstalling th
 If you have any questions or feedback regarding this Privacy Policy, please contact us via email at:
 Email: mrali1561345@gmail.com
 
-7. CONTACT US
-If you have any questions or feedback regarding this Privacy Policy, please contact us at:
-Email: support@frostboundgrid.com
